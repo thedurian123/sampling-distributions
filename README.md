@@ -1,1 +1,3 @@
 # sampling-distributions
+
+demo-inclass
